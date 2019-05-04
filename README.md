@@ -1,4 +1,4 @@
-# Code for Factorization Machines (FM) 
+# This is a python implementation of Factorization Machines (FM) 
 # and Textual Ccontext Aware Factorization Machines (TCAFM) algorithms
 
 # if you use TCAFM, please mention the paper:
